@@ -1,6 +1,6 @@
 const envv2 = require('./config-v2')
-var GITHUB_TOKEN;
-var BOT_NUMBER;
+var GITHUB_TOKEN;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
+var BOT_NUMBER;94769268470
 var SESSION_ID;
 
 const fs = require('fs');
